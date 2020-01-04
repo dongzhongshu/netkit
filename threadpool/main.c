@@ -54,7 +54,7 @@ int main()
 
     for (int i = 0 ; i < task_count; i ++)
     {
-        printf("will push file:%d\n", file_index[i]);
+//        printf("will push file:%d\n", file_index[i]);
         if(0 != threadpool_add(pool, write_file, (void*)&file_index[i]))
         {
             printf("add task to thread pool failed.\n");

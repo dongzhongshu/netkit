@@ -1,0 +1,5 @@
+G:/mywork/netkit/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/mywork/netkit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+G:/mywork/netkit/cmake-build-debug/threadpool/CMakeFiles/netkit.dir
+G:/mywork/netkit/cmake-build-debug/threadpool/CMakeFiles/edit_cache.dir
+G:/mywork/netkit/cmake-build-debug/threadpool/CMakeFiles/rebuild_cache.dir
