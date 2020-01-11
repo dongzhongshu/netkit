@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/mywork/netkit/ringbuffer/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+pthread.h
+-
+errno.h
+-
+ringbuffer.h
+G:/mywork/netkit/ringbuffer/ringbuffer.h
+
+G:/mywork/netkit/ringbuffer/ringbuffer.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/types.h
+-
+ringbuffer.h
+G:/mywork/netkit/ringbuffer/ringbuffer.h
+unistd.h
+-
+
+G:/mywork/netkit/ringbuffer/ringbuffer.h
+stdbool.h
+-
+stdio.h
+-
+
